@@ -55,6 +55,11 @@ john --show myhashes.txt
 
 ## OUTPUT:
 Cracked Passwords from Hash File
+![WhatsApp Image 2025-10-30 at 14 05 15_7cdacdf4](https://github.com/user-attachments/assets/5045316b-848f-4e3d-8301-bfd878a3135a)
+![WhatsApp Image 2025-10-30 at 14 05 15_59c97107](https://github.com/user-attachments/assets/d8ee600f-42c5-400b-a438-758d31967a1f)
+![WhatsApp Image 2025-10-30 at 14 05 15_8e9c7dff](https://github.com/user-attachments/assets/a33fe48f-9cc9-42a9-bf64-fa1c0dac5651)
+
+
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
